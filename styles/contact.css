@@ -1,0 +1,51 @@
+.title {
+    font-family: "Cabin";
+    font-size: 48px;
+}
+
+form {
+    background-color: aliceblue;
+    border-radius: 40px;
+    width: 80%;
+    height: 380px;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+    padding-top: 25px;
+}
+
+form input[type="text"],
+form input[type="email"],
+form textarea {
+
+    margin-bottom: 10px;
+    display: inline;
+    font-family: "Cabin";
+    font-size: 20px;
+    padding: 10px 15px;
+    border-style: none;
+    border-width: 1px;
+    border-radius: 10px;
+    background-color: white;
+
+    box-shadow: inset 0px 2px 5px rgba(0, 0, 0, 0.403);
+    width: 80%;
+    /* Adjust this value to change the width of the text boxes */
+    margin-left: 0%;
+    /* Adjust this value to change the left margin of the text boxes */
+}
+
+
+#submitButton {
+
+    width: 94%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#response {
+    font-family: "Cabin";
+    text-align: left;
+    margin-left: 7%;
+    color: rgba(0, 0, 0, 0.5);
+}

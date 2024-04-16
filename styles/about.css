@@ -1,0 +1,6 @@
+.paragraph {
+    text-align: center;
+    /* This ensures the center of the text is positioned at the center of its container */
+    font-family: "Cabin";
+    margin-bottom: 50px;
+}

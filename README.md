@@ -1,4 +1,4 @@
-# Spotify Mood Melodies
+![](https://github.com/Vithursh/Spotify-Mood-Melodies/blob/1547f69a2c2277e2313423dd2cad924da5acb19c/Mood%20Melodies%20Image.png)
 
 ---
 
